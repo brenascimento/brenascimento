@@ -13,7 +13,6 @@ Skills:
 
 - 📜 HTML, CSS and Javascript
   - 🌲 DOM
-  - 
 - 🐍 Advanced Python 
   - 🤹‍♂️ Object Oriented Programming
   - 🤹‍♂️ Functional Programming
