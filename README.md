@@ -3,11 +3,9 @@
 Formed on ETEC Jorge Street as System Development Technican, i'm searching to become a better Developer
 
 Who Am I:
-
-- 🐍 Python Back-end Developer
 - 👨‍💻 System Development Technican
+- 📜 Full-Stack Developer
 - 🧮 Data Analyst
-- 👨‍🔬 Machine Learning Enthusiast
 
 Skills:
 
