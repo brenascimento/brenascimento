@@ -1,6 +1,6 @@
 ### Hi, I'm Brenno 👋
 
-Formed on ETEC Jorge Street as System Development Technican, i'm searching to become a better Developer
+Formed on ETEC Jorge Street as System Development Technican, i'm searching to become a Data Scientist
 
 Who Am I:
 - 👨‍💻 System Development Technican
