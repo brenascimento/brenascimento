@@ -4,11 +4,9 @@ Formed on ETEC Jorge Street as System Development Technican, i'm searching to be
 
 Who Am I:
 - 👨‍💻 System Development Technican
-- 📜 Full-Stack Developer
 - 🧮 Data Analyst
 
 Skills:
-
 - 📜 HTML, CSS and Javascript
   - 🌲 DOM
 - 🐍 Advanced Python 
@@ -16,12 +14,14 @@ Skills:
   - 🤹‍♂️ Functional Programming
   - 📝 Web Scraping
     - 🍵 Beautiful Soup
-- 🦁 Django Framework
 - 👨‍💻 Data Manipulation/ETL
   - 🐼 Pandas
 - 📊 Data Visualization
+  - 📉 Matplotlib 
   - 📈 Plotly
-- 🗄️ SQL
+  - 💹 Power BI
+  - 📊 Looker Studio/Data Studio
+- 🗄️ SQL (Data Manipulation)
 - 🤖Machine Learning
   - 🦾 Scikit Learn (WIP)
   - 🦿 TensorFlow (WIP)
