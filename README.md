@@ -1,10 +1,11 @@
 ### Hi, I'm Brenno 👋
 
-Formed on ETEC Jorge Street as System Development Technican, i'm searching to become a Data Scientist
+Formed on ETEC Jorge Street as System Development Technican, i'm searching to become a AI Engineer
 
 Who Am I:
 - 👨‍💻 System Development Technican
 - 🧮 Data Analyst
+- 🧑‍🔬 Data Scientist (Enthusiast)
 
 Skills:
 - 📜 HTML, CSS and Javascript
@@ -21,8 +22,8 @@ Skills:
   - 📈 Plotly
   - 💹 Power BI
   - 📊 Looker Studio/Data Studio
+  - 📊 Metabase
 - 🗄️ SQL (Data Manipulation)
-- 🤖Machine Learning
+- 🤖Machine Learning (WIP)
   - 🦾 Scikit Learn (WIP)
-  - 🦿 TensorFlow (WIP)
 
