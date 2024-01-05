@@ -1,6 +1,6 @@
 ### Hi, I'm Brenno 👋
 
-Formed on ETEC Jorge Street as System Development Technican, i'm searching to become a AI Engineer
+Data Analyst that have been searching to become an AI Engineer
 
 Who Am I:
 - 👨‍💻 System Development Technican
