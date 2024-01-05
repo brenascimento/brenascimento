@@ -5,7 +5,7 @@ Formed on ETEC Jorge Street as System Development Technican, i'm searching to be
 Who Am I:
 - 👨‍💻 System Development Technican
 - 🧮 Data Analyst
-- 🧑‍🔬 Data Scientist (Enthusiast)
+- 🧑‍🔬 Machine Learning and AI Student
 
 Skills:
 - 📜 HTML, CSS and Javascript
