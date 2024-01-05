@@ -8,6 +8,7 @@ Who Am I:
 - 🧑‍🔬 Machine Learning and AI Student
 
 Skills:
+- **R** Programming Language
 - 📜 HTML, CSS and Javascript
   - 🌲 DOM
 - 🐍 Advanced Python 
