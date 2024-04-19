@@ -1,30 +1,28 @@
 ### Hi, I'm Brenno 👋
 
-Data Analyst that have been searching to become an AI Engineer
-
-Who Am I:
-- 👨‍💻 System Development Technican
+Who Am I (Professional):
 - 🧮 Data Analyst
-- 🧑‍🔬 Machine Learning and AI Student
+- 👨‍💻 System Development Technican
+- 🧑‍🔬 AI/ML Student to become AI/ML Engineer.
 
 Skills:
 - **R** Programming Language
 - 📜 HTML, CSS and Javascript
   - 🌲 DOM
-- 🐍 Advanced Python 
+  - 🖥️ Front-end Frameworks Basics (Express, Vue, React)
+  - 🗄️ Back-end (Rest APIs, Basics of Java Spring and Django)
+- 🐍 Advanced Python
   - 🤹‍♂️ Object Oriented Programming
   - 🤹‍♂️ Functional Programming
-  - 📝 Web Scraping
-    - 🍵 Beautiful Soup
-- 👨‍💻 Data Manipulation/ETL
+- 👨‍💻 Analytics
   - 🐼 Pandas
-- 📊 Data Visualization
-  - 📉 Matplotlib 
+  - 📈 Matplotlib/Seaborn
+- 📊 BI Tools
   - 📈 Plotly
   - 💹 Power BI
   - 📊 Looker Studio/Data Studio
   - 📊 Metabase
 - 🗄️ SQL (Data Manipulation)
-- 🤖Machine Learning (WIP)
-  - 🦾 Scikit Learn (WIP)
+- 🤖 Machine Learning
+  - 🦾 Scikit Learn
 
